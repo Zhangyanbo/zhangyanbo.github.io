@@ -1777,6 +1777,111 @@ body {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/2-2000x1333.jpg");
 }
+.cid-qTkA127IK8 H1 {
+  text-align: left;
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  text-align: left;
+}
+.cid-rle9pKZACf {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rle9pKZACf .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rle9pKZACf .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rle9pKZACf .mbr-text {
+  color: #767676;
+  text-align: left;
+}
+.cid-rleavsJ6Xw {
+  padding-top: 90px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-rleavsJ6Xw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rleavsJ6Xw .container-table {
+  margin: 0 auto;
+}
+.cid-rleavsJ6Xw .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rleavsJ6Xw .dataTables_wrapper {
+  display: block;
+}
+.cid-rleavsJ6Xw .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rleavsJ6Xw .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rleavsJ6Xw table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rleavsJ6Xw table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rleavsJ6Xw table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rleavsJ6Xw table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rleavsJ6Xw table.table {
+  background: #ffffff;
+}
+.cid-rleavsJ6Xw .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rleavsJ6Xw .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rleavsJ6Xw .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rleavsJ6Xw .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rleavsJ6Xw .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rleavsJ6Xw .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rleavsJ6Xw .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
