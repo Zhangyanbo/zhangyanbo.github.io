@@ -34,7 +34,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 13,
     "versionPublish": "4.9.6",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/mma2-01-128x127.png",
     "noImageResize": ""
   },
   "pages": {
